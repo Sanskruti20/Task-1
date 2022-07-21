@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    background-color: #B5EAEA;
+  }
+  
+  h1{
+    color: #18978F;
+  margin: 20 auto 0 auto;
+  font-family: 'Sacramento',cursive;
+  font-size: 350%;
+  
+  }  
+
+  h2{
+    color: 18978FF;
+  font-family: 'Montserrat',sans-serif;
+  font-size:1.5rem;
+  font-weight: normal;
+  line-height: 0.5;
+  padding-bottom: 7px;
+  margin-top: 20px;
+}
+
+ #addToDo {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: 'Montserrat',sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left: 20px;
+  }
+
+  #addToDo:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
+    text-decoration: none;
+  }
+
+  #inputT{
+    padding: 15px 0 15px;
+    font-size: 1.2rem;
+    text-align: center;
+    border-radius: 10px;
+    margin: 20px auto ;
+  }
+
+  .to-dos {
+    margin: 25px auto;
+    text-align: left;
+    padding-left: 35%;
+    color: #293462; 
+    font-family: 'Montserrat',sans-serif;
+  }
+
+  
+ 
+
+  .paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 20px;
+    padding-top: 10px ;
+    
+  }
+
